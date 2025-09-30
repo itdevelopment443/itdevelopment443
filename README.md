@@ -10,6 +10,9 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 
 ## Frontend
 
+![NextJS](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![React](https://img.shields.io/badge/React-57C4DC?style=for-the-badge&logo=react&logoColor=white)
+
 ## Backend
 
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
