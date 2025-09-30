@@ -21,6 +21,8 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS-407E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![BunJS](https://img.shields.io/badge/BunJS-F472B6?style=for-the-badge&logo=bun&logoColor=white)
+![DrizzleORM](https://img.shields.io/badge/DrizzleORM-C5F750?style=for-the-badge&logo=drizzle&logoColor=black)
+![PayloadCMS](https://img.shields.io/badge/PayloadCMS-white?style=for-the-badge&logo=payloadcms&logoColor=black)
 
 
 ## Databases
