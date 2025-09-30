@@ -2,13 +2,15 @@
 
 I’m a software engineer who loves exploring different ways to solve problems. Always curious, always searching for new ideas, and always excited to build cool things.
 
-### Programming languages
+## Programming languages
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7E02C?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3772A2?style=for-the-badge&logo=python&logoColor=white)
 
-### Web development
+## Frontend
+
+## Backend
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-407E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![BunJS](https://img.shields.io/badge/BunJS-F472B6?style=for-the-badge&logo=bun&logoColor=white)
