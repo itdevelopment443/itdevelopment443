@@ -11,7 +11,7 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 ## Frontend
 
 ![NextJS](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![NuxtJS](https://img.shields.io/badge/nuxt-00DC81?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/NUXT-00DC81?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-57C4DC?style=for-the-badge&logo=react&logoColor=white)
 ![VueJS](https://img.shields.io/badge/VueJS-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-69238B?style=for-the-badge&logo=vite&logoColor=white)
