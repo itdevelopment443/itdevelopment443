@@ -12,12 +12,22 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 
 ![NextJS](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![React](https://img.shields.io/badge/React-57C4DC?style=for-the-badge&logo=react&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-69238B?style=for-the-badge&logo=vite&logoColor=white)
 
 ## Backend
 
-![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
+![HonoJS](https://img.shields.io/badge/HonoJS-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS-407E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![BunJS](https://img.shields.io/badge/BunJS-F472B6?style=for-the-badge&logo=bun&logoColor=white)
+
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699DC9?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FE4438?style=for-the-badge&logo=redis&logoColor=white)
 
 ## Deployment & Cloud Services
 
