@@ -23,7 +23,7 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 ![Supabase](https://img.shields.io/badge/Supabase-3DCF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)
 
-## Things i do in my free time ☀️
+## Things I do in my free time ☀️
 
 - I love traveling ✈️
 - I love techno music 🎶
