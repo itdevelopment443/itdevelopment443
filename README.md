@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Etjen 👋
 
-<!--
-**itdevelopment443/itdevelopment443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer who loves exploring different ways to solve problems. Always curious, always searching for new ideas, and always excited to build cool things.
 
-Here are some ideas to get you started:
+### Programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-F7E02C?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3772A2?style=for-the-badge&logo=python&logoColor=white)
+
+### Web development
+
+![NodeJS](https://img.shields.io/badge/NODEJS-407E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![BunJS](https://img.shields.io/badge/BUNJS-F472B6?style=for-the-badge&logo=bun&logoColor=white)
+
+## Deployment & Cloud Services
+
+![Docker](https://img.shields.io/badge/Docker-1C63ED?logo=docker&logoColor=white&style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F68220?logo=cloudflare&logoColor=white&style=for-the-badge)
+![Bunny.net](https://img.shields.io/badge/Bunny.net-FF7753?logo=bunnydotnet&logoColor=white&style=for-the-badge)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3DCF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+## Things i do in my free time ☀️
+
+- I love traveling ✈️
+- I love techno music 🎶
+- I love spending time with my family ❤️
