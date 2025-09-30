@@ -12,6 +12,7 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 
 ## Backend
 
+![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS-407E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![BunJS](https://img.shields.io/badge/BunJS-F472B6?style=for-the-badge&logo=bun&logoColor=white)
 
