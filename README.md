@@ -31,6 +31,7 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699DC9?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FE4438?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Redis-FE4438?style=for-the-badge&logo=redis&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Deployment & Cloud Services
 
