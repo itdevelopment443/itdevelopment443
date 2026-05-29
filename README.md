@@ -19,11 +19,15 @@ I’m a software engineer who loves exploring different ways to solve problems. 
 ## Backend
 
 ![HonoJS](https://img.shields.io/badge/HonoJS-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/NodeJS-407E38?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![BunJS](https://img.shields.io/badge/BunJS-F472B6?style=for-the-badge&logo=bun&logoColor=white)
 ![DrizzleORM](https://img.shields.io/badge/DrizzleORM-C5F750?style=for-the-badge&logo=drizzle&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![PayloadCMS](https://img.shields.io/badge/PayloadCMS-white?style=for-the-badge&logo=payloadcms&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
 
 
 ## Databases
